@@ -1,5 +1,5 @@
-### Hola, mi nombre es Luis Antonio 👋
-## Soy Desarrollador web
+# Hola, mi nombre es Luis Antonio 👋
+### Soy Desarrollador web
 
 <!--
 **antonio130500/antonio130500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-## ![https://github.com/antonio130500]([https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png](https://avatars.githubusercontent.com/u/146895078?v=4)) Hola, mi nombre es Luis Antonio 👋
+## ![https://github.com/antonio130500](https://avatars.githubusercontent.com/u/146895078?v=4) Hola, mi nombre es Luis Antonio 👋
 ### Soy Desarrollador web
 
 <!--

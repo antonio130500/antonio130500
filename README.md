@@ -1,5 +1,12 @@
-## ![https://github.com/antonio130500]<img src="https://avatars.githubusercontent.com/u/146895078?s=96&v=4" width="20px"> Hola, mi nombre es Luis Antonio 👋
-### Soy Desarrollador web
+# <img src="https://avatars.githubusercontent.com/u/146895078?s=96&v=4" width="50px" style="border-radius:5px 10px 15px 20px;"> Hola, mi nombre es Luis Antonio 👋
+### Desarrollador web backend.
+
+<img src="![image](https://github.com/antonio130500/antonio130500/assets/146895078/37ea6dea-17d0-4c34-b358-0110301232e2)" width="50px" style="border-radius:5px 10px 15px 20px;">
+✨Soy ingeniero en sistemas computacionales✨
+
+En 2021 egrese de la universidad y me enfoque en el desarrollo web, con más gustos por los sistemas web´s del lado del backend.
+
+
 
 <!--
 **antonio130500/antonio130500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
